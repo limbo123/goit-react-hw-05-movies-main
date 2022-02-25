@@ -1,0 +1,24 @@
+.NavLink {
+    color: #000;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+.ActiveNavlink {
+    color: palevioletred;
+}
+.Navigation {
+    box-shadow: 0 4px 2px -2px gray;
+    width: 100%;
+    height: 45px;
+}
+
+.NavList {
+    display: flex;
+    justify-content: start;
+}
+.NavListItem {
+    list-style: none;
+    margin-right: 10px;
+    
+}

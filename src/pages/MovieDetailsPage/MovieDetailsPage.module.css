@@ -1,0 +1,14 @@
+.filmDetailsSect {
+    display: flex;
+}
+
+.returnButton {
+    display: block;
+    margin: 30px;
+}
+
+.poster {
+    margin: 0 30px;
+    width: 200px;
+    height: 300px;
+}
